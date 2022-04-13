@@ -1,0 +1,18 @@
+.App input{
+    margin-top :20px;
+    width:100%;
+    height:40px;
+    font-size:20px;
+    padding-left:10px;
+}
+.image-grid{
+    display:flex;
+ 
+    margin:20px auto;
+    justify-content:space-evenly;
+   
+    flex-wrap: wrap;
+}
+
+.full{overflow: hidden; padding-bottom: 54.6%;height: 0;}
+.mg-25{margin-bottom: 25px;}
